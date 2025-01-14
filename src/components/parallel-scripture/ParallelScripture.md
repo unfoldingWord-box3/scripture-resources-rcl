@@ -99,12 +99,12 @@ import {
 
 // DEFAULT VALUES
 const defaults = {
-  bookId: "mat",
+  bookId: "jud",
   lang: "nt", //ot or nt
-  chapter: "12",
-  verse: "25",
-  quote: "πᾶσα βασιλεία μερισθεῖσα καθ’ ἑαυτῆς ἐρημοῦται, καὶ πᾶσα πόλις ἢ οἰκία μερισθεῖσα καθ’ ἑαυτῆς οὐ σταθήσεται",
-  occurrence: -1
+  chapter: "1",
+  verse: "10",
+  quote: "ὅσα & φυσικῶς ὡς τὰ ἄλογα ζῷα ἐπίστανται",
+  occurrence: 2
 }
 
 // Constants
